@@ -8,5 +8,5 @@ da camera será exibina na hora.
 ## Exemplo do funcionamento:
 
 <h1 align="center">
-    <img alt="cam" title="#cam" src=".github/cam.png" width="250px" />
+    <img alt="cam" title="#cam" src=".github/cam.png" width="400px" />
 </h1>
