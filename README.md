@@ -10,3 +10,6 @@ da camera será exibina na hora.
 <h1 align="center">
     <img alt="cam" title="#cam" src=".github/cam.png" width="600px" />
 </h1>
+
+<h2>Testar camera:</h2>
+<a href="https://andreocunha.github.io/camera-web-page/">Link</a>
